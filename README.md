@@ -9,11 +9,21 @@
 
 <p>
   I'm Eris, a self-taught Python developer and hardware enthusiast with a strong interest in cybersecurity, embedded systems, and low-level computing concepts.<br>
+  
   I'm a transfem with a passion for understanding how systems work under the surface. I've worked on various projects ranging from device homebrew, redstone logic circuits and various python projects.<br>
+  
   Currently, I’m learning C by developing custom firmware for a TINYSA device.<br>
-  I am also familiar with EZ80 assembly language.
 </p>
-
+<pre>
+  _                              _       _     _       
+ | |                            (_)     | |   | |      
+ | |_ _ __ __ _ _ __  ___   _ __ _  __ _| |__ | |_ ___ 
+ | __| '__/ _` | '_ \/ __| | '__| |/ _` | '_ \| __/ __|
+ | |_| | | (_| | | | \__ \ | |  | | (_| | | | | |_\__ \
+  \__|_|  \__,_|_| |_|___/ |_|  |_|\__, |_| |_|\__|___/
+                                    __/ |              
+                                   |___/               
+</pre>
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/230px-Python-logo-notext.svg.png" width="40"
 </p>
